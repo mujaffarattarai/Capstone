@@ -1,0 +1,4 @@
+Use Case 1: Which accounts or markets are likely to have recurring non-compliance next quarter?
+Use Case 2: Which root causes will become systemic across more markets next quarter?
+Use Case 3: Which markets are likely to move from Moderate → High risk next quarter?
+Use Case 4: Given a new audit observation, what is the predicted root cause?
